@@ -1,2 +1,18 @@
+com/fju/Drink.java
+ com.fju.Drink
+com/fju/Supau.java
+ com.fju.Supau
+com/fju/Grapejuice.java
+ com.fju.Grapejuice
+com/fju/Pocari.java
+ com.fju.Pocari
+com/fju/Pepsi.java
+ com.fju.Pepsi
+com/fju/Orangejuice.java
+ com.fju.Orangejuice
+com/fju/Uniwater.java
+ com.fju.Uniwater
 com/fju/Tester.java
  com.fju.Tester
+com/fju/Coins.java
+ com.fju.Coins
